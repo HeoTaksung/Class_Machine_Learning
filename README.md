@@ -4,11 +4,11 @@
 
 * __1_Linear_Regression_sklearn__
 
-  * LinearRegression using sklearn, matplotlib
+  * Linear Regression using sklearn, matplotlib
   
 * __2_Linear_Regression_numpy - insurance in Kaggle__
 
-  * LinearRegression using numpy(hypothesis, cost_fn, gradientDescent), matplotlib
+  * Linear Regression using numpy(hypothesis, cost_fn, gradientDescent), matplotlib
   
 * __3_Logistic_Regression_numpy - bank details in Kaggle__
 
