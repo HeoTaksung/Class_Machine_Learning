@@ -17,3 +17,11 @@
 * __4_Neural_Networks_Feed_forward__
 
   * Logistic Regression using numpy(sigmoid, feed forward)
+  
+* __5_Neural_Networks_Back_Propagation - ex3data1(MNIST) in scipy__
+
+  * Logistic Regression using numpy(sigmoid, forward and backward propagation)
+  
+* __6_Learning_Curve_Linear_Regression - Advertising Dataset in Kaggle__
+
+  * Linear Regression using numpy(hypothesis, cost_fn, gradientDescent), Learning Curve using matplotlib
