@@ -25,3 +25,18 @@
 * __6_Learning_Curve_Linear_Regression - Advertising Dataset in Kaggle__
 
   * Linear Regression using numpy(hypothesis, cost_fn, gradientDescent), Learning Curve using matplotlib
+  
+* __7_MNIST_DNN - MNIST in tensorflow__
+
+  * tensorflow, Multi Layer Perceptron(MLP)
+  
+* __8_K-means - Iris in kaggle__
+
+  * K-means Clustering using numpy
+  
+--------------------------------------------------
+
+**insurance Dataset in kaggle Link: [insurance](https://www.kaggle.com/brandonyongys/insurance-charges/data)**  
+**bank details Dataset in kaggle Link: [bank](https://www.kaggle.com/chiranjeevbit/bank-data-analysis/data)**  
+**Advertising Dataset in kaggle Link: [Advertising](https://www.kaggle.com/ashydv/advertising-dataset)**  
+**Iris Dataset in kaggle Link: [Iris](https://www.kaggle.com/uciml/iris)**  
